@@ -17,7 +17,7 @@ This organisation hosts the public specifications, formats, tools, and documenta
 Public repositories:
 
 - **formats** — the open output formats produced by the Archiva pipeline
-- **glossary** — a public glossary of records-management and legacy-data terminology
+- **[glossary](https://github.com/archivahq/glossary)** — a public glossary of records-management and legacy-data terminology
 - **compliance-calendar** — the source of `compliance.archivahq.com`
 - **connector-spec** — the specification for connecting a legacy source to the pipeline *(coming soon)*
 - **cli** — a command-line tool for inspecting Archiva-format archives *(coming soon)*
